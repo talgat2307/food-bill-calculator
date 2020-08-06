@@ -1,1 +1,1 @@
-Food TotalCalculator Calculator with React JS
+Food Bill Calculator with React JS
